@@ -1,5 +1,5 @@
-# lab7-cmanage1
+# Calculator REST API
 
-Name: Chethin Manage
-
-Student Number: 300066367
+## Technologies Used
+- Kotlin
+- SpringBoot
